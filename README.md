@@ -244,3 +244,7 @@ The core implementation does not include the optional stretch goals from the exe
 - Slack API pagination, caching, or rate-limit orchestration.
 
 These can be added later without changing the current `buildDigest` interface.
+
+## License
+
+This project is open source under the [MIT License](LICENSE).
